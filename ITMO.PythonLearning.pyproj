@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>564b40fe-216d-4976-abcc-c870dee8a6ad</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>practice_my_p2.py</StartupFile>
+    <StartupFile>practice_my_p3.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,6 +25,7 @@
     <Compile Include="practice_my_p2.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="practice_my_p3.py" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
